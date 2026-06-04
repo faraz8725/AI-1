@@ -1,4 +1,5 @@
-/*import { openai } from "@ai-sdk/openai";
+ 
+ /*import { openai } from "@ai-sdk/openai";
 import { frontendTools } from "@assistant-ui/react-ai-sdk";
 import {
   type JSONSchema7,
@@ -120,3 +121,5 @@ export async function POST(req: Request) {
 
   return result.toUIMessageStreamResponse();
 }
+
+
